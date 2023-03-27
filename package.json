@@ -1,7 +1,7 @@
 {
-    "name": "DreamDark_PiratasCR",
+    "name": "DreamDark_Launcher",
     "preductname": "DreamDark Launcher",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "PancaDev",
